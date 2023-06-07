@@ -44,6 +44,8 @@ Thumbs.db
 *.log
 
 ### Others ###
-*application.properties
-*application.yml
 src/main/resources/application.yml.txt
+
+
+### env ###
+.env
